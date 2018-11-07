@@ -1,12 +1,12 @@
 {
     "name": "denzill/php-rtf-parser",
-    "version": "0.5a",
+    "version": "0.5b",
     "description": "PHP Rich Text Format Parser",
     "type": "library",
     "authors": [
         {
             "name": "denzill",
-            "email": "denia.kachurin@gmail.com"
+            "email": "denis.kachurin@gmail.com"
         }
     ],
     "require": {},
