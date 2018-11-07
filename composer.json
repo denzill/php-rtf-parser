@@ -1,5 +1,6 @@
 {
     "name": "denzill/php-rtf-parser",
+    "version": "0.5a",
     "description": "PHP Rich Text Format Parser",
     "type": "library",
     "authors": [
