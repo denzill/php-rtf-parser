@@ -2,7 +2,6 @@
     "name": "denzill/php-rtf-parser",
     "description": "PHP Rich Text Format Parser",
     "type": "library",
-    "license": "GPL",
     "authors": [
         {
             "name": "denzill",
